@@ -10,5 +10,6 @@ const numeroString = Number('456');
 //quando uma das variaveis não é um numero, ele faz a concatenização e em vez de soma vira 456456.
 console.log(numero + numeroString);
 
+//NaN -> Not a number
 
 //conversão explícita
